@@ -1,0 +1,121 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AldaOT-Bold
+FamilyName:Alda OT
+StyleName:Bold
+MenuName:Alda OT Bold
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Alda OT Bold
+WritingScript:Roman
+OutlineFileName:\AldaOT-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:111984
+FileModTime:1307096622
+NameArray:0,Mac,4,Alda OT Bold
+NameArray:0,Win,1,Alda OT Bold
+NameArray:0,Win,16,Alda OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AldaOT-Regular
+FamilyName:Alda OT
+StyleName:Regular
+MenuName:Alda OT Regular
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Alda OT
+WritingScript:Roman
+OutlineFileName:\AldaOT-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:109260
+FileModTime:1307096622
+NameArray:0,Mac,18,Alda OT Regular
+NameArray:0,Mac,4,Alda OT
+NameArray:0,Win,1,Alda OT Regular
+NameArray:0,Win,16,Alda OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AldaOT-RegularItalic
+FamilyName:Alda OT
+StyleName:Regular Italic
+MenuName:Alda OT Regular
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Alda OT Regular Italic
+WritingScript:Roman
+OutlineFileName:\AldaOT-RegularItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:69224
+FileModTime:1307096622
+NameArray:0,Mac,4,Alda OT Regular Italic
+NameArray:0,Win,1,Alda OT Regular
+NameArray:0,Win,16,Alda OT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:JosefinSlab
+FamilyName:Josefin Slab
+StyleName:Regular
+MenuName:Josefin Slab
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Josefin Slab
+WritingScript:Roman
+OutlineFileName:\JosefinSlab.ttf
+DataFormat:sfntData
+FileLength:110740
+FileModTime:1309988388
+NameArray:0,Mac,18,Josefin Slab
+NameArray:0,Mac,4,Josefin Slab
+NameArray:0,Win,1,Josefin Slab
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Lovelo-Black
+FamilyName:Lovelo
+StyleName:Black
+MenuName:Lovelo
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Lovelo Black
+WritingScript:Roman
+OutlineFileName:\Lovelo-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:16636
+FileModTime:1359552742
+NameArray:0,Mac,4,Lovelo Black
+NameArray:0,Win,1,Lovelo
+%EndFont
+
